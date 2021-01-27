@@ -1,0 +1,20 @@
+
+    h1.heading1:active{color:blueviolet}
+    #heading2{color: blue;
+        font-family: 'Potta One', cursive;
+    }
+
+    p {
+        width: 200px;
+        height: 200px;
+        border-style: dashed;
+        overflow: scroll;
+        border-width: 5px;
+        border-color:blue red orange purple;
+        padding: 20px;
+        margin: 100px  auto 100px auto;
+        border-radius: 50px;
+        border-spacing: 10px;
+        box-shadow: 5px 5px 5px 5px grey;
+    }
+a{display: block}
